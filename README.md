@@ -2,4 +2,4 @@
 Hello if you are reading this.
 Then you in my folder of projects.
 This are some of my works. 
-Your are free to look around and comment them.
+You are free to look around and comment them.
